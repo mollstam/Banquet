@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{11C9BDDB-4BD2-38F9-5203-EFBAB79A4883}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Banquet",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
